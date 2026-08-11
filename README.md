@@ -127,44 +127,44 @@ Membangun solusi dengan AI untuk menyelesaikan masalah nyata.
 <tr>
 <td align="center" width="33%">
 
-<img src="assets/projects/dashboard.jpg" width="100%" alt="Zagoour Dashboard"/>
+<img src="assets/projects/keuangan.jpg" width="100%" alt="AI Asisten Hitung HPP"/>
 <br/>
 
-**Zagoour Dashboard**
+**AI Asisten Hitung HPP**
 
-Dashboard admin modern dengan analitik, manajemen data, dan visualisasi interaktif.
+Aplikasi asisten AI untuk menghitung Harga Pokok Produksi (HPP) UMKM.
 
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white) ![AI](https://img.shields.io/badge/AI-161b22?style=flat-square&logo=openai&logoColor=white)
 
-🔗 [github.com/zagoour/dashboard](https://github.com/zagoour/dashboard)
+🔗 [AI-ASISTEN-Hitung-HPP](https://github.com/zagoourai-hub/AI-ASISTEN-Hitung-HPP)
 
 </td>
 <td align="center" width="33%">
 
-<img src="assets/projects/keuangan.jpg" width="100%" alt="Keuangan UMKM"/>
+<img src="assets/projects/dashboard.jpg" width="100%" alt="Portfolio Personal"/>
 <br/>
 
-**Keuangan UMKM**
+**Portfolio Personal**
 
-Aplikasi manajemen keuangan dan HPP untuk UMKM dengan laporan lengkap.
+Website portfolio personal modern dengan desain interaktif.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688) ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=4169E1)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
 
-🔗 [github.com/zagoour/keuangan-umkm](https://github.com/zagoour/keuangan-umkm)
+🔗 [Portfolio-Personal](https://github.com/zagoourai-hub/Portfolio-Personal)
 
 </td>
 <td align="center" width="33%">
 
-<img src="assets/projects/chatbot.jpg" width="100%" alt="AI Chatbot"/>
+<img src="assets/projects/chatbot.jpg" width="100%" alt="Porto Neobrutalism"/>
 <br/>
 
-**AI Chatbot (WhatsApp Style)**
+**Porto Neobrutalism**
 
-Chatbot AI dengan tampilan WhatsApp/LINE menggunakan FastAPI & OpenAI.
+Website portfolio dengan desain neobrutalism yang unik dan bold.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=009688) ![OpenAI](https://img.shields.io/badge/OpenAI-161b22?style=flat-square&logo=openai&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=1572B6)
 
-🔗 [github.com/zagoour/ai-chatbot](https://github.com/zagoour/ai-chatbot)
+🔗 [porto-neobrutalsm](https://github.com/zagoourai-hub/porto-neobrutalsm)
 
 </td>
 </tr>
