@@ -1,5 +1,3 @@
-<img src="assets/background.png" width="100%" alt="banner" />
-
 <table>
 <tr>
 <td>
