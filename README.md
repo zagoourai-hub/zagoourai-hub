@@ -80,7 +80,7 @@ Membangun solusi dengan AI untuk menyelesaikan masalah nyata.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" /> &nbsp; React <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" /> &nbsp; TypeScript <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="18" /> &nbsp; Tailwind CSS <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="18" /> &nbsp; Shadcn UI
+<img src="https://img.shields.io/badge/S-000000?style=flat-square&logoColor=white" height="20" /> &nbsp; Shadcn UI
 
 </td>
 <td width="25%" valign="top">
@@ -109,10 +109,10 @@ Membangun solusi dengan AI untuk menyelesaikan masalah nyata.
 
 **Others**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="18" /> &nbsp; OpenAI API <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" width="18" /> &nbsp; LangChain <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pydantic/pydantic-original.svg" width="18" /> &nbsp; Pydantic <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/celery/celery-original.svg" width="18" /> &nbsp; Celery <br/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20" /> &nbsp; OpenAI API <br/>
+<img src="https://img.shields.io/badge/🦜-2C2C2C?style=flat-square" height="20" /> &nbsp; LangChain <br/>
+<img src="https://img.shields.io/badge/P-E92063?style=flat-square&logoColor=white" height="20" /> &nbsp; Pydantic <br/>
+<img src="https://img.shields.io/badge/C-37814A?style=flat-square&logoColor=white" height="20" /> &nbsp; Celery <br/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18" /> &nbsp; VS Code
 
 </td>
