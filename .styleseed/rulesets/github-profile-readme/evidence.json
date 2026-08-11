@@ -1,0 +1,42 @@
+{
+  "references": [
+    {
+      "id": "R1",
+      "path": "design/image.png",
+      "kind": "profile dashboard reference",
+      "observations": [
+        "dark technical surface",
+        "cyan image accent",
+        "identity before capabilities",
+        "small grouped cards for profile facts and stack"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "id": "R2",
+      "path": "assets/background.png",
+      "kind": "background asset",
+      "observations": [
+        "dark grid and circuitry framing",
+        "cyan-blue light points",
+        "clear central negative space"
+      ],
+      "confidence": "high"
+    },
+    {
+      "id": "R3",
+      "path": "assets/profil.png",
+      "kind": "profile monogram asset",
+      "observations": [
+        "metallic Z mark",
+        "cyan edge lighting",
+        "dark technical context"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "unresolved": [
+    "R1 does not establish an accessible light-mode palette because GitHub controls the reading surface.",
+    "R1 does not provide verified social profiles or project descriptions, so the README links only to confirmed GitHub destinations."
+  ]
+}

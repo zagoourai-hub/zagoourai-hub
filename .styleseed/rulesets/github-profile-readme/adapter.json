@@ -1,0 +1,20 @@
+{
+  "id": "product-ui",
+  "artifact": "github-profile-readme",
+  "renderer": "GitHub Markdown with sanitized HTML",
+  "viewports": {
+    "desktop": "GitHub profile content column",
+    "mobile": "GitHub mobile profile content column"
+  },
+  "constraints": [
+    "No custom CSS or JavaScript",
+    "Use relative repository paths for local assets",
+    "Use semantic Markdown and simple HTML only",
+    "Do not rely on unavailable hover, focus, loading, or animated states"
+  ],
+  "qa": [
+    "Validate Markdown structure and relative image references",
+    "Inspect asset dimensions and alt text",
+    "Preview on GitHub after the assets and README are committed"
+  ]
+}
