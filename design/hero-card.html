@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+  body {
+    width: 1200px;
+    height: 630px;
+    font-family: 'Inter', sans-serif;
+    color: #e6edf3;
+    overflow: hidden;
+  }
+
+  .card {
+    width: 1200px;
+    height: 630px;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 60px 80px;
+  }
+
+  .bg {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    z-index: 0;
+  }
+
+  .overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    z-index: 1;
+  }
+
+  .left, .right {
+    position: relative;
+    z-index: 2;
+  }
+
+  .left {
+    max-width: 580px;
+  }
+
+  .name {
+    font-size: 52px;
+    font-weight: 800;
+    line-height: 1.1;
+    margin-bottom: 12px;
+  }
+
+  .name span {
+    color: #58a6ff;
+  }
+
+  .subtitle {
+    font-size: 20px;
+    font-weight: 600;
+    color: #8b949e;
+    margin-bottom: 20px;
+  }
+
+  .desc {
+    font-size: 16px;
+    color: #9ca3af;
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+
+  .meta {
+    display: flex;
+    gap: 20px;
+    font-size: 14px;
+    color: #8b949e;
+    margin-bottom: 28px;
+  }
+
+  .meta span {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .socials {
+    display: flex;
+    gap: 12px;
+  }
+
+  .social-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #e6edf3;
+    text-decoration: none;
+  }
+
+  .right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+
+  .avatar {
+    width: 200px;
+    height: 200px;
+    border-radius: 24px;
+    object-fit: cover;
+    border: 3px solid rgba(88, 166, 255, 0.3);
+    box-shadow: 0 0 40px rgba(88, 166, 255, 0.15);
+  }
+
+  .status {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 20px;
+    padding: 8px 20px;
+    font-size: 14px;
+    font-weight: 600;
+    color: #e6edf3;
+  }
+
+  .status-dot {
+    width: 10px;
+    height: 10px;
+    background: #3fb950;
+    border-radius: 50%;
+  }
+</style>
+</head>
+<body>
+<div class="card">
+  <img class="bg" src="../assets/background.png" alt="bg" />
+  <div class="overlay"></div>
+
+  <div class="left">
+    <div class="name">Riss <span>Zagoour</span></div>
+    <div class="subtitle">Full-Stack Developer & AI Enthusiast</div>
+    <div class="desc">
+      Saya membangun aplikasi web modern yang cepat, aman,
+      dan berfokus pada pengalaman pengguna.
+    </div>
+    <div class="meta">
+      <span>📍 Jawa Barat, Indonesia</span>
+      <span>✉️ hello@zagoour.dev</span>
+      <span>🔗 zagoour.dev</span>
+    </div>
+    <div class="socials">
+      <div class="social-badge">GitHub</div>
+      <div class="social-badge">LinkedIn</div>
+      <div class="social-badge">Instagram</div>
+    </div>
+  </div>
+
+  <div class="right">
+    <img class="avatar" src="../assets/profil.png" alt="Z" />
+    <div class="status">
+      <div class="status-dot"></div>
+      Open to Work
+    </div>
+  </div>
+</div>
+</body>
+</html>
