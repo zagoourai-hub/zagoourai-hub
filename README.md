@@ -76,44 +76,44 @@ Membangun solusi dengan AI untuk menyelesaikan masalah nyata.
 
 **Frontend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" /> &nbsp; Next.js <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" /> &nbsp; React <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" /> &nbsp; TypeScript <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="18" /> &nbsp; Tailwind CSS <br/>
-<img src="https://img.shields.io/badge/S-000000?style=flat-square&logoColor=white" height="20" /> &nbsp; Shadcn UI
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="16" /> Next.js <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" /> React <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="16" /> TypeScript <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="16" /> Tailwind CSS <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shadcnui/shadcnui-original.svg" width="16" /> Shadcn UI
 
 </td>
 <td width="25%" valign="top">
 
 **Backend**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" /> &nbsp; Python <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="18" /> &nbsp; FastAPI <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" /> &nbsp; PostgreSQL <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="18" /> &nbsp; SQLAlchemy <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="18" /> &nbsp; Redis
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" /> Python <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="16" /> FastAPI <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="16" /> PostgreSQL <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="16" /> SQLAlchemy <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="16" /> Redis
 
 </td>
 <td width="25%" valign="top">
 
 **Tools & DevOps**
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" /> &nbsp; Git & GitHub <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18" /> &nbsp; Docker <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="18" /> &nbsp; Nginx <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" width="18" /> &nbsp; Linux (Ubuntu) <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" /> &nbsp; VPS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="16" /> Git <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="16" /> GitHub <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="16" /> Docker <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="16" /> Nginx <br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="16" /> Linux
 
 </td>
 <td width="25%" valign="top">
 
 **Others**
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" height="20" /> &nbsp; OpenAI API <br/>
-<img src="https://img.shields.io/badge/🦜-2C2C2C?style=flat-square" height="20" /> &nbsp; LangChain <br/>
-<img src="https://img.shields.io/badge/P-E92063?style=flat-square&logoColor=white" height="20" /> &nbsp; Pydantic <br/>
-<img src="https://img.shields.io/badge/C-37814A?style=flat-square&logoColor=white" height="20" /> &nbsp; Celery <br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18" /> &nbsp; VS Code
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="16" /> VS Code <br/>
+· OpenAI API <br/>
+· LangChain <br/>
+· Pydantic <br/>
+· Celery
 
 </td>
 </tr>
