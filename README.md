@@ -70,7 +70,7 @@ Membangun solusi dengan AI untuk menyelesaikan masalah nyata.
 
 ### 🖥 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="25%" valign="top">
 
