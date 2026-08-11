@@ -7,10 +7,11 @@
 - Output grammar: `reference:github-profile-readme`
 - Grammar path: `.styleseed/rulesets/github-profile-readme/RULESET.md`
 - Grammar fallback: `expressive-marketing`
-- Reference confidence: low
+- Reference: `design/designs.png`
+- Reference confidence: medium
 - Theme: GitHub-controlled light or dark mode with dark technical image assets
 - Accent: cyan, carried by the supplied imagery rather than hardcoded README CSS
 - Typography: GitHub system UI for prose and GitHub monospace for technology labels
-- Density: compact and scannable, with a banner-led opening, one short split hero, and small two-column information groups
+- Density: compact and scannable, with a README bar, split hero, four-column capability groups, three selected-work cards, and one activity row
 - Motion: none
-- Signature move: README-style top bar, technical background banner, split hero with the supplied monogram, and one truthful terminal profile snippet
+- Signature move: README-style top bar, oversized split identity hero with the supplied monogram, compact capability tables, and project proof before live activity

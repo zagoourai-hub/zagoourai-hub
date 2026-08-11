@@ -1,203 +1,190 @@
-<table>
+<table width="100%">
 <tr>
-<td>
-
-## Riss **Zagoour**
-
-**Full-Stack Developer & AI Enthusiast**
-
-Saya membangun aplikasi web modern yang cepat, aman,
-dan berfokus pada pengalaman pengguna.
-
-📍 Jawa Barat, Indonesia &nbsp;&nbsp; ✉️ hello@zagoour.dev &nbsp;&nbsp; 🔗 zagoour.dev
-
-<a href="https://github.com/zagoourai-hub"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/zagoour"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-<a href="https://instagram.com/zagoour"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/></a>
-<a href="mailto:hello@zagoour.dev"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/></a>
-
-</td>
-<td align="center" width="280">
-
-<img src="assets/profil.png" width="180" alt="Z Avatar" />
-
-<br/>
-
-`🟢 Open to Work`
-
-</td>
+<td><strong>README.md</strong></td>
+<td align="right"><a href="https://github.com/zagoourai-hub">Profile</a> &nbsp; <a href="https://github.com/zagoourai-hub?tab=repositories">Repositories</a></td>
 </tr>
 </table>
-
----
-
-### 👤 About Me
-
-<table>
-<tr>
-<td align="center" width="25%">
-<br/>
-<b>🎯 Focus</b>
-<br/><br/>
-Membangun produk digital yang bermanfaat dan berdampak.
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<b>&lt;/&gt; Stack</b>
-<br/><br/>
-Menyukai TypeScript, Python, dan teknologi modern.
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<b>🧠 Mindset</b>
-<br/><br/>
-Terus belajar, membangun, dan berbagi.
-<br/><br/>
-</td>
-<td align="center" width="25%">
-<br/>
-<b>⚡ Goal</b>
-<br/><br/>
-Membangun solusi dengan AI untuk menyelesaikan masalah nyata.
-<br/><br/>
-</td>
-</tr>
-</table>
-
----
-
-### 🖥 Tech Stack
 
 <table width="100%">
 <tr>
-<td valign="top" width="25%">
+<td width="66%" valign="middle">
+
+### Hi, I'm 👋
+
+# Riss **Zagoour**
+
+### Full-Stack Developer & AI Enthusiast
+
+Saya membangun aplikasi web modern yang cepat, aman, dan berfokus pada pengalaman pengguna.
+
+`Jawa Barat, Indonesia` &nbsp; [hello@zagoour.dev](mailto:hello@zagoour.dev) &nbsp; [GitHub](https://github.com/zagoourai-hub)
+
+<a href="https://github.com/zagoourai-hub"><img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://linkedin.com/in/zagoour"><img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" /></a>
+<a href="https://instagram.com/zagoour"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+<a href="mailto:hello@zagoour.dev"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+
+</td>
+<td width="34%" align="center" valign="middle">
+
+<img src="assets/profil.png" width="220" alt="Zagoour metallic Z monogram" />
+
+<br />
+
+`● Open to Work`
+
+</td>
+</tr>
+</table>
+
+---
+
+## About Me
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**Focus**
+
+Membangun produk digital yang bermanfaat dan berdampak.
+
+</td>
+<td width="25%" valign="top">
+
+**Stack**
+
+Menyukai TypeScript, Python, dan teknologi modern.
+
+</td>
+<td width="25%" valign="top">
+
+**Mindset**
+
+Terus belajar, membangun, dan berbagi.
+
+</td>
+<td width="25%" valign="top">
+
+**Goal**
+
+Membangun solusi dengan AI untuk menyelesaikan masalah nyata.
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)
-![Shadcn](https://img.shields.io/badge/Shadcn_UI-000?style=flat-square&logo=shadcnui)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" alt="Next.js" /> Next.js<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" alt="React" /> React<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="18" alt="TypeScript" /> TypeScript<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="18" alt="Tailwind CSS" /> Tailwind CSS<br />
+<img src="https://cdn.simpleicons.org/shadcnui/FFFFFF" width="18" alt="Shadcn UI" /> Shadcn UI
 
 </td>
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 **Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" /> Python<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="18" alt="FastAPI" /> FastAPI<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" alt="PostgreSQL" /> PostgreSQL<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" width="18" alt="SQLAlchemy" /> SQLAlchemy<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="18" alt="Redis" /> Redis
 
 </td>
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 **Tools & DevOps**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" alt="Git" /> Git & GitHub<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18" alt="Docker" /> Docker<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="18" alt="Nginx" /> Nginx<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" alt="Linux" /> Linux<br />
+<code>VPS</code>
 
 </td>
-<td valign="top" width="25%">
+<td width="25%" valign="top">
 
 **Others**
 
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=fff)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=fff)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=fff)
+<img src="https://api.iconify.design/simple-icons:openai.svg?color=%2374AA9C" width="18" alt="OpenAI" /> OpenAI API<br />
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="18" alt="LangChain" /> LangChain<br />
+<img src="https://cdn.simpleicons.org/pydantic/E92063" width="18" alt="Pydantic" /> Pydantic<br />
+<img src="https://cdn.simpleicons.org/celery/37814A" width="18" alt="Celery" /> Celery<br />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18" alt="VS Code" /> VS Code
 
 </td>
 </tr>
 </table>
 
----
+## Featured Projects
 
-### 📁 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-<img src="assets/projects/keuangan.jpg" width="100%" alt="AI Asisten Hitung HPP"/>
-<br/>
+<a href="https://github.com/zagoourai-hub/Portfolio-Personal"><img src="https://raw.githubusercontent.com/zagoourai-hub/Portfolio-Personal/master/public/hero/bg-hero.png" width="100%" alt="Rissz Portfolio landing page" /></a>
 
-**AI Asisten Hitung HPP**
+### Rissz Portfolio
 
-Aplikasi asisten AI untuk menghitung Harga Pokok Produksi (HPP) UMKM.
+Portfolio full-stack dan CMS untuk project, layanan, harga, serta rating pelanggan terverifikasi.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white) ![AI](https://img.shields.io/badge/AI-161b22?style=flat-square&logo=openai&logoColor=white)
+`Next.js` `TypeScript` `Prisma`
 
-🔗 [AI-ASISTEN-Hitung-HPP](https://github.com/zagoourai-hub/AI-ASISTEN-Hitung-HPP)
-
-</td>
-<td align="center" width="33%">
-
-<img src="assets/projects/dashboard.jpg" width="100%" alt="Portfolio Personal"/>
-<br/>
-
-**Portfolio Personal**
-
-Website portfolio personal modern dengan desain interaktif.
-
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-
-🔗 [Portfolio-Personal](https://github.com/zagoourai-hub/Portfolio-Personal)
+[View repository](https://github.com/zagoourai-hub/Portfolio-Personal)
 
 </td>
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
-<img src="assets/projects/chatbot.jpg" width="100%" alt="Porto Neobrutalism"/>
-<br/>
+<a href="https://github.com/zagoourai-hub/porto-neobrutalsm"><img src="https://raw.githubusercontent.com/zagoourai-hub/porto-neobrutalsm/main/docs/images/admin-dashboard.png" width="100%" alt="Cyber-Neobrutalism admin dashboard" /></a>
 
-**Porto Neobrutalism**
+### Cyber-Neobrutalism
 
-Website portfolio dengan desain neobrutalism yang unik dan bold.
+Portfolio interaktif dengan CMS terautentikasi, pengelolaan konten, dan deployment Docker.
 
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6) ![Next.js](https://img.shields.io/badge/Next.js-161b22?style=flat-square&logo=nextdotjs&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-161b22?style=flat-square&logo=css3&logoColor=1572B6)
+`Next.js` `PostgreSQL` `Docker`
 
-🔗 [porto-neobrutalsm](https://github.com/zagoourai-hub/porto-neobrutalsm)
+[View repository](https://github.com/zagoourai-hub/porto-neobrutalsm)
+
+</td>
+<td width="33%" valign="top">
+
+<a href="https://github.com/zagoourai-hub/Skills"><img src="assets/background.png" width="100%" alt="Dark technical grid for Zagoour Skills Pack" /></a>
+
+### Zagoour Skills Pack
+
+Skill pack berbasis profil untuk Claude Code, Codex CLI, dan Antigravity.
+
+`PowerShell` `Shell` `Agent workflows`
+
+[View repository](https://github.com/zagoourai-hub/Skills)
 
 </td>
 </tr>
 </table>
 
----
+## GitHub Activity
 
-### 📊 GitHub Stats
-
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
+<td width="68%" align="center" valign="middle">
 
-```text
-Total Repositories   24
-Total Stars         120
-Total Commits     1.2k+
-Contribution Streak  🔥 45 days
-```
+<a href="https://github.com/zagoourai-hub"><img src="https://ghchart.rshah.org/22c55e/zagoourai-hub" width="100%" alt="GitHub contribution chart for zagoourai-hub" /></a>
 
 </td>
-<td align="center" width="34%">
+<td width="32%" valign="middle">
 
-<a href="https://github.com/zagoourai-hub"><img src="https://ghchart.rshah.org/22c55e/zagoourai-hub" alt="GitHub Contribution Chart" width="100%"/></a>
+> Code is like humor. When you have to explain it, it's bad.
 
-</td>
-<td width="33%">
-
-> **❝**
->
-> *Code is like humor. When you have to explain it, it's bad.*
->
-> — **Cory House**
+<sub>Cory House</sub>
 
 </td>
 </tr>
@@ -205,6 +192,4 @@ Contribution Streak  🔥 45 days
 
 ---
 
-<p align="center">
-  <sub>© 2025 Riss Zagoour • Built with ❤️ and lots of ☕</sub>
-</p>
+<p align="center"><sub>© 2026 Riss Zagoour</sub></p>
